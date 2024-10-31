@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# MacOS specific
+.DS_Store
+
+# Debugging and logging
+*.log
+debug_output/
+debug_oriented.jpg
+oriented_image.jpg
+
+# Legacy requirements if not needed
+requirement-legacy.txt
