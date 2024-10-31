@@ -7,8 +7,8 @@ This project provides a FastAPI-based API for face recognition, liveness detecti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/face-comp-api.git
-cd face-comp-api
+git clone https://github.com/sameer-cnetric-space/face-comp.git
+cd face-comp
 ```
 
 ### 2. Install Dependencies
